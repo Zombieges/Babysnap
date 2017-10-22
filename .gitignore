@@ -19,6 +19,7 @@ xcuserdata/
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
+com.mono0926.LicensePlist.Output/
 
 ## Obj-C/Swift specific
 *.hmap
