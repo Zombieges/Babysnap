@@ -19,7 +19,6 @@ class ShadowButton: UIButton {
         rect.size.width += insets.left + insets.right
         rect.size.height += insets.top + insets.bottom
         
-        // 拡大したViewサイズがタップ領域に含まれているかどうかを返します
         return rect.contains(point)
     }
     
@@ -30,6 +29,5 @@ class ShadowButton: UIButton {
         self.layer.shadowOpacity = 0.8
         
         self.insets = UIEdgeInsetsMake(30, 30, 30, 30)
-        
     }
 }
