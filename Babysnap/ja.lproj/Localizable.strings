@@ -1,0 +1,18 @@
+/*
+  Localizable.strings
+  Babysnap
+
+  Created by ExtYabecchi on 2017/05/31.
+  Copyright © 2017年 ExtYabecchi. All rights reserved.
+*/
+
+"soundButtonTitleStop" = "ストップ";
+"soundButtonTitlePlay" = "プレイ♪";
+"showSoundViewText" = "サウンド";
+"cameraLaunchTitle" = "アクセス許可設定";
+"cameraLaunchMessage" = "カメラへのアクセスを許可してください";
+"cameraLaunchActionTitle" = "設定する";
+"photoLaunchTitle" = "アクセス許可設定";
+"photoLaunchMessage" = "写真へのアクセスを許可してください";
+"photoLaunchActionTitle" = "設定する";
+"savedText" = "保存しました！";

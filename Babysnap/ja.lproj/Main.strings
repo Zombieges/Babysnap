@@ -1,0 +1,34 @@
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "50C-iR-Aa4"; */
+"50C-iR-Aa4.title" = "設定";
+
+/* Class = "UITableViewSection"; footerTitle = "Photos you've taken will be saved automatically to the Camera roll."; ObjectID = "53f-1z-2x2"; */
+"53f-1z-2x2.footerTitle" = "撮影した写真をカメラロールに自動保存します。";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "YUt-Dv-8fi"; */
+"YUt-Dv-8fi.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "Instagram Support"; ObjectID = "ceB-rO-TKT"; */
+"ceB-rO-TKT.text" = "Instagram";
+
+/* Class = "UIButton"; normalTitle = "SoundList"; ObjectID = "dO2-nP-vQt"; */
+"dO2-nP-vQt.normalTitle" = "サウンド";
+
+/* Class = "UITableViewSection"; headerTitle = "More Info"; ObjectID = "djJ-e7-Seg"; */
+"djJ-e7-Seg.headerTitle" = "追加情報";
+
+/* Class = "UILabel"; text = "Twitter Support"; ObjectID = "eJ3-Xd-6wy"; */
+"eJ3-Xd-6wy.text" = "Twitterサポート";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "jYe-tE-CZD"; */
+"jYe-tE-CZD.normalTitle" = "プレイ♪";
+
+/* Class = "UITableViewSection"; footerTitle = "Press the play button to repeatedly play the sound."; ObjectID = "jsb-NW-NjM"; */
+"jsb-NW-NjM.footerTitle" = "音を鳴らした際に、サウンドを繰り返し流します";
+
+/* Class = "UILabel"; text = "Sound Repeat Mode"; ObjectID = "sd8-wt-r15"; */
+"sd8-wt-r15.text" = "サウンドループモード";
+
+/* Class = "UILabel"; text = "Auto Save Mode"; ObjectID = "z0t-Ry-4cH"; */
+"z0t-Ry-4cH.text" = "自動保存モード";
+

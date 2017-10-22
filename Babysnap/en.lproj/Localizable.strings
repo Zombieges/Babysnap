@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Babysnap
+
+  Created by ExtYabecchi on 2017/05/31.
+  Copyright © 2017年 ExtYabecchi. All rights reserved.
+*/
+
+"autosave" = "autosave";
+"autosave_header" = "";
+"autosave_footer" = "aaa";
+"navigation_title_setting" = "setting";
+"soundButtonTitleStop" = "stop";
+"soundButtonTitlePlay" = "play";
+"cameraLaunchTitle" = "Permission settings";
+"cameraLaunchMessage" = "Please allow access to the camera";
+"cameraLaunchActionTitle" = "Settings";
+"photoLaunchTitle" = "Permission settings";
+"photoLaunchMessage" = "Please allow access to photos Library";
+"photoLaunchActionTitle" = "Settings";

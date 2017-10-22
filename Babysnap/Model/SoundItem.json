@@ -1,0 +1,122 @@
+ [
+  {
+  "category": "clapping",
+  "charge": "flee",
+  "sounds": [
+             {
+             "id": "gargle",
+             "picture": "gargle",
+             "sound": "sound_human_gargle"
+             },
+             {
+             "id": "clapping",
+             "picture": "clapping",
+             "sound": "sound_human_clapping"
+             },
+             {
+             "id": "clapping_bravo",
+             "picture": "clapping_bravo",
+             "sound": "sound_human_clapping_bravo"
+             },
+             {
+             "id": "sneezing",
+             "picture": "sneezing",
+             "sound": "sound_human_sneezing"
+             },
+             {
+             "id": "uchiwa",
+             "picture": "uchiwa",
+             "sound": "sound_human_uchiwa"
+             },
+             {
+             "id": "lingual",
+             "picture": "lingual",
+             "sound": "sound_human_lingual"
+             },
+             {
+             "id": "lipsvibration",
+             "picture": "lipsvibration",
+             "sound": "sound_human_lipsvibration"
+             },
+             ]
+  },
+  {
+  "category": "dog",
+  "charge": "flee",
+  "sounds": [
+             {
+             "id": "dog1",
+             "picture": "dog1",
+             "sound": "sound_dog1"
+             },
+             {
+             "id": "dog2",
+             "picture": "dog2",
+             "sound": "sound_dog2"
+             }
+             ]
+  },
+  {
+  "category": "cat",
+  "charge": "flee",
+  "sounds": [
+             {
+             "id": "cat1",
+             "picture": "cat1",
+             "sound": "sound_cat1"
+             },
+             {
+             "id": "cat2",
+             "picture": "cat2",
+             "sound": "sound_cat2"
+             },
+             {
+             "id": "cat3",
+             "picture": "cat3",
+             "sound": "sound_cat3"
+             }
+             ]
+  },
+  {
+  "category": "animal",
+  "charge": "flee",
+  "sounds": [
+             {
+             "id": "sheep1",
+             "picture": "sheep1",
+             "sound": "sound_animals1_sheep"
+             },
+             {
+             "id": "chicken1",
+             "picture": "chicken1",
+             "sound": "sound_animals1_chicken"
+             },
+             {
+             "id": "caw1",
+             "picture": "caw1",
+             "sound": "sound_animals1_caw"
+             },
+             {
+             "id": "bird1",
+             "picture": "bird1",
+             "sound": "sound_bird1"
+             }
+             ]
+  },
+  {
+  "category": "vehicle",
+  "charge": "flee",
+  "sounds": [
+             {
+             "id": "train1",
+             "picture": "train1",
+             "sound": "sound_vehicle1_train1"
+             },
+             {
+             "id": "railroadCrossing1",
+             "picture": "railroadCrossing1",
+             "sound": "sound_vehicle1_RailroadCrossing"
+             }
+             ]
+  }
+  ]
